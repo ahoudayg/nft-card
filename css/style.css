@@ -90,8 +90,8 @@ main{
 .line{
     background-color: var(--Soft-blue);
     width: 300px;
-    padding-bottom: 1px;
-    border: none;
+    height: 1px;
+    opacity: 0.3;
 }
 .profil{
     display: flex;
